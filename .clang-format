@@ -1,0 +1,6 @@
+---
+BasedOnStyle:  LLVM
+Language: Cpp
+AllowShortFunctionsOnASingleLine: None
+IndentCaseLabels: true
+---
